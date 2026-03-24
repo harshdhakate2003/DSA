@@ -36,14 +36,3 @@ for(let i=1;i<=1000000;i++)
 }
 
 
-//------------------More Questions---------------------------
-
-// Write a  program to check whether a number is Perfect number or not.
-
-// Write a  program to print all Perfect numbers between 1 to n.
-
-// Write a  program to check whether a number is Strong number or not.
-
-// Write a  program to print all Strong numbers between 1 to n.
-
-// Write a  program to print Fibonacci series up to n terms.
